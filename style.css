@@ -66,3 +66,6 @@ h2{
     border-image: linear-gradient(180deg, rgb(35, 27, 109), rgb(90, 92, 201));
     border-image-slice: 1;
 }
+footer p{
+text-align: center;
+}
