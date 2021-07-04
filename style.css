@@ -45,7 +45,7 @@ h2{
 }
 .exprience-area{
     border-radius: 4px;
-    background: #e0e0e0;
+    box-shadow: 5px 5px 40px rgb(15, 12, 6);
     padding: 2%;
     margin: 2%;
 
@@ -53,9 +53,9 @@ h2{
 .exprience{
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: center left;
     background-position-y: 330px;
-    z-index: 1;
+    
 
 }
 #stack{
