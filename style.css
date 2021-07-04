@@ -54,6 +54,8 @@ h2{
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    background-position-y: 330px;
+    z-index: 1;
 
 }
 #stack{
@@ -68,4 +70,7 @@ h2{
 }
 footer p{
 text-align: center;
+}
+.expert{
+    padding: 40px;
 }
